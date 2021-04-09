@@ -1,5 +1,7 @@
 ## Ironhack - Shark Attack project - Module 1 
 This is my project called "Shark Attack" provided from the Ironhack's Data Analytics bootcamp. I had to clean and filter the dataset about shark attacks around the world to get only the information to answer a specific question made by myself about this topic. So, regarding to the whole work, the purpose is to analyse and provide a answer about something from the messy dataset. This work shows many information approached on the second week of  the course and covers basic skills required to become a data analyst. So, this project was very important for me. 
+## Stuff imported to do the work.
+I imported the pandas and numpy lab to achieve my goals to analyse and to clean my dataset. I used matplotlib as well to make my graphics. I could use function to extract interesting data for me and got into the result of the project.
 ## Step 1 - Understanding the data. 
 First of all, i needed to open the dataset in the jupiter notebook with the function "read_csv" and the argument "encoding = latin1". How i noticed that the dataset 
 had columns unnamed, missing values and wrong information, i decided to use the functions "drop", "dropna" and "replace" to fix these problems. I dropped 
