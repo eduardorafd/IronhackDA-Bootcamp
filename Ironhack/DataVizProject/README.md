@@ -41,7 +41,7 @@ The last worksheet was represented by a bar graphic as well and it would compare
 ### Step 5 - Final Reuslt
 Finally, i made a dashboard to unify all these worksheets and make the presentation containing what i explained before. Also, if you want to look on how i make all the coding process, the document can be found in this folder DataVizProject. After this image below you will have access to my tableau vizualization public where you can also behave as my client and decide what player or team you would select by any type of skills as you want.
 ![Viz 5](https://user-images.githubusercontent.com/80002453/116085235-ff070780-a674-11eb-8dd0-73d73f6b44a4.png)
-Thank you for the attention [Tableau Vizualization here!](https://public.tableau.com/views/ProjectDataViz_16193879491070/DashboardFIFA?:language=pt&:display_count=y&publish=yes&:origin=viz_share_link)
+Thank you for the attention [Tableau Vizualization here!](https://public.tableau.com/profile/eduardo2842#!/vizhome/ProjectDataViz_16193879491070/InterativeFIFA?publish=yes)
 
 
 
