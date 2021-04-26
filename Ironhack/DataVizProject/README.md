@@ -26,9 +26,22 @@ attack, middle and second defenders as you can see below one of the examples.
 ### Step 3 - CSV file
 I made this table for every position and then i used the "pd.concat" method to join all these tables and create a csv file with 5296 players from the FIFA soccer game, 27 columns that represented each category for a player like a personal information such as values of contract or skills in the matchs like dribbling opponents. I exported the csv file to my computer so i could work with it in Tableau and go for the vizualization process. Before we go on , you can see the result of the [Players_Fifa.csv](https://github.com/eduardorafd/data-modules/files/6374440/Players_Fifa.csv) below.
 ![all_pd](https://user-images.githubusercontent.com/80002453/116031551-49b45f80-a634-11eb-8312-a61fb98cf77a.png)
-### Step 4 - Tableau Vizualization
-
-
+### Step 4 - Tableau Vizualization - Client 
+This part covered the topics viewed on the fifth week of the bootcamp related to statistical vizualization in Tableau or in python importing some libraries such as MatplotLib and Seaborn. I chose to make my vizualization with Tableau and i started off by seeing how i could use my columns and rows properly to let the client decide what type of player he would like to analyse. Then, i created a new worksheet where the columns "Position", "Teams", "Foot", "Values", "Overall" and the measure values were the filters so the client could decide if he would like a defender or a goalkeepers for example, someone from Real Madrid, right or left foot, expensive or not, overall better than 90 and what skills he was willing to see such as goalkeepers reflexes, free kicking or marking as well. Also, i separated the "Name" with many colors and its showing the percentual of each player. The result is a bar graphic as you can see below.
+![Viz1](https://user-images.githubusercontent.com/80002453/116081861-252aa880-a671-11eb-9345-67201c32c04a.png)
+### Step 4.1 - Players Comparison  
+After the client has found many players for his requirements he could compare these players with each other to decide which one he would pick up. I created a bar graphic again where the columns skills and the "Name" were the filters. So the client with the players names in hand could search for each one and analyse them by any skills as he prefers. I take as a basic example below the comparison among Cristiano Ronaldo , Messi and Lewandowski because they are top 3 soccer players in the world.
+![Viz2](https://user-images.githubusercontent.com/80002453/116082661-0b3d9580-a672-11eb-8419-bbac6e5eede7.png)
+### Step 4.2 - Client Teams 
+Now , if the client wishs to analyse a group of players by team and compare them he could analyse it as well. I created a bar graphic to show all skills from each team where each one would have their specific amount of players. The idea is to get the score of all the players for each team and calculate the average to see which team has the best score. For example , Manchester United had 21 players and the best overall of the dataset achieving 82.71. But to be righteous the client should select teams with same amount of players and he could filter it by position and foot preference as well.
+![Viz3](https://user-images.githubusercontent.com/80002453/116083914-94090100-a673-11eb-833a-3ea6d8d5f87c.png)
+### Step 4.3 - Teams Comparison
+The last worksheet was represented by a bar graphic as well and it would compare the teams as the client would have done with the players on the steps above. The idea is to just select by the name what teams the client would like to analyse the statistical skills. After deciding a team to pick up he could comeback to the previous steps and analyse the players for a specific team and try to compare them again to make a contract with someone. I decided to use Real Madrid and Barcelona as a basic example so you can view the average skills differences between these teams. 
+![Viz4](https://user-images.githubusercontent.com/80002453/116084520-48a32280-a674-11eb-9c57-b3212ef69e74.png)
+### Step 5 - Final Reuslt
+Finally, i made a dashboard to unify all these worksheets and make the presentation containing what i explained before. Also, if you want to look on how i make all the coding process, the document can be found in this folder DataVizProject. After this image below you will have access to my tableau vizualization public where you can also behave as my client and decide what player or team you would select by any type of skills as you want.
+![Viz 5](https://user-images.githubusercontent.com/80002453/116085235-ff070780-a674-11eb-8dd0-73d73f6b44a4.png)
+Thank you for the attention [Tableau Vizualization here!](https://public.tableau.com/views/ProjectDataViz_16193879491070/DashboardFIFA?:language=pt&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
 
