@@ -26,6 +26,8 @@ attack, middle and second defenders as you can see below one of the examples.
 ### Step 3 - CSV file
 I made this table for every position and then i used the "pd.concat" method to join all these tables and create a csv file with 5296 players from the FIFA soccer game, 27 columns that represented each category for a player like a personal information such as values of contract or skills in the matchs like dribbling opponents. I exported the csv file to my computer so i could work with it in Tableau and go for the vizualization process. Before we go on , you can see the result of the [Players_Fifa.csv](https://github.com/eduardorafd/data-modules/files/6374440/Players_Fifa.csv) below.
 ![all_pd](https://user-images.githubusercontent.com/80002453/116031551-49b45f80-a634-11eb-8312-a61fb98cf77a.png)
+### Step 4 - Tableau Vizualization
+
 
 
 
