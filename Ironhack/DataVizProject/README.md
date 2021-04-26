@@ -15,14 +15,18 @@ the number of output, i imported Pandas as well to create the tables and i impor
 data because i found a pattern from the url's that helped me to loop through the pages. So i just needed to decide what and how many information i should bring to my dataset and make
 the vizualization.
 ### Step 2 - Data information
-How the table from the website was showing stats about players and teams by the statistics i made my csv file like the layout from the pages. I made the scrapping grouping by positions 
-because the main content had the best players from the game so it will not get a lot of players by but just the best ones mixed. I separated it and then i got more data such as 875 goalkeppers
-and 1200 defenders. And i got players that could have any stats so it would give many possibilities to the client to decide which player he could pick up. I created empty lists to represent 
-each category like names , teams , values , ball control , overall and so on that should receive information about each player. I made a "for loop" to iterate through every element in the soup
+How the table from the website was showing stats about players and teams by the statistics i made my csv file like the layout from the pages. Also, I made the scrapping grouping by positions 
+because the main content had the best players from the game so it was not getting a lot of players but just the best ones mixed. I separated it to get more data such as 875 goalkeppers
+and 1200 defenders. And, i got players that could have any stats so it would give many possibilities to the client to decide which player he could pick up. After, i created empty lists to represent 
+each category like names , teams , values , ball control , overall and so on that should receive information about each player. How i could get the teams names and statistics for every player i did not need to do the web scrapping twice to separate it as well. The teams would come as a category for each player. Further, I made a "for loop" to iterate through every element in the soup
 and get the text content from the page by the attributes to find only words that i wanted and i did the "append" method to put this text in a specific empty list so it will serve later to create
-the dataframe. I filtered none strings in the "names" column because it was showing in the list after the scrapping and a created a dataframe for every position : goalkeepers, defenders, 
-attack, middle and second defenders.
-
-
+the dataframe. Finally, I filtered strings in the "names" column because it was showing none ones in the list after the scrapping and a created a dataframe for every position : goalkeepers, defenders, 
+attack, middle and second defenders as you can see below one of the examples.
 ![gk_pd](https://user-images.githubusercontent.com/80002453/116029860-9b5aeb00-a630-11eb-8b10-7915ef57d1ce.png)
+### Step 3 - CSV file
+I made this table for every position and then i used the "pd.concat" method to join all these tables and create a csv file with 5296 players from the FIFA soccer game, 27 columns that represented each category for a player like a personal information such as values of contract or skills in the matchs like dribbling opponents. I exported the csv file to my computer so i could work with it in Tableau and go for the vizualization process. Before we go on , you can see the result of the "Players_Fifa2.csv" below.
+![all_pd](https://user-images.githubusercontent.com/80002453/116031551-49b45f80-a634-11eb-8312-a61fb98cf77a.png)
+
+
+
 
