@@ -22,4 +22,7 @@ each category like names , teams , values , ball control , overall and so on tha
 and get the text content from the page by the attributes to find only words that i wanted and i did the "append" method to put this text in a specific empty list so it will serve later to create
 the dataframe. I filtered none strings in the "names" column because it was showing in the list after the scrapping and a created a dataframe for every position : goalkeepers, defenders, 
 attack, middle and second defenders.
+
+
 ![gk_pd](https://user-images.githubusercontent.com/80002453/116029860-9b5aeb00-a630-11eb-8b10-7915ef57d1ce.png)
+
