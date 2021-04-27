@@ -40,7 +40,7 @@ The last worksheet was represented by a bar graphic as well and it would compare
 ![Viz4](https://user-images.githubusercontent.com/80002453/116084520-48a32280-a674-11eb-9c57-b3212ef69e74.png)
 ### Step 5 - Final Reuslt
 Finally, i made a story to unify all these worksheets and make the presentation containing what i explained before. Also, if you want to look on how i make all the coding process, the document can be found in this folder DataVizProject. After this image below you will have access to my tableau vizualization public where you can also behave as my client and decide what player or team you would select by any type of skills as you want.
-![Viz10](https://user-images.githubusercontent.com/80002453/116094602-0ed71980-a67e-11eb-8517-8027b5b96fc5.png)
+![Viz9](https://user-images.githubusercontent.com/80002453/116177419-22b86500-a6ea-11eb-929b-76daaa5894fd.png)
 Thank you for the attention [Tableau Vizualization here!](https://public.tableau.com/profile/eduardo2842#!/vizhome/ProjectDataViz_16193879491070/InterativeFIFA?publish=yes)
 
 
