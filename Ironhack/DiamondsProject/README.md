@@ -19,7 +19,9 @@ dariam para descorbrir devido à presença de 0 nas colunas 'x' e 'y', eu tirei 
 ![1](https://user-images.githubusercontent.com/80002453/116827157-0a26cf80-ab6e-11eb-933c-1b479fe6e746.png)
 ## Parte 2 - Analisar Correlações
 Para colocar em um gráfico e ver melhor as correlações entre as colunas do dataset, eu usei o heatmap da library seaborn para separar pelas cores cada correlação e selecionar as maiores possíveis.
+
 ![2](https://user-images.githubusercontent.com/80002453/116827519-ad2c1900-ab6f-11eb-8895-8fa8a758aad5.png)
+
 Após isso, ao notar que a coluna 'carat' possuía maior correlação com a coluna 'price' do que as outras, utilizei o gráfico de regplot para observar as tendências de crescimento linear entre essas colunas.Ao notar que os pontos
 começam a ficar dispersos após uma determinada parte do gráfico , eu utilizei a função np.log para poder aproximar os pontos e ter uma regressão melhor.
 ![regplot](https://user-images.githubusercontent.com/80002453/116827299-a355e600-ab6e-11eb-94db-34adc856e350.png)
