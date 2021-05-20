@@ -38,7 +38,7 @@ Now , if the client wishs to analyse a group of players by team and compare them
 ### Step 4.3 - Teams Comparison
 The last worksheet was represented by a bar graphic as well and it would compare the teams as the client would have done with the players on the steps above. The idea is to just select by the name what teams the client would like to analyse the statistical skills. After deciding a team to pick up he could comeback to the previous steps and analyse the players for a specific team and try to compare them again to make a contract with someone. I decided to use Real Madrid and Barcelona as a basic example so you can view the average skills differences between these teams. 
 ![Viz4](https://user-images.githubusercontent.com/80002453/116084520-48a32280-a674-11eb-9c57-b3212ef69e74.png)
-### Step 5 - Final Reuslt
+### Step 5 - Final Result
 Finally, i made a story to unify all these worksheets and make the presentation containing what i explained before. Also, if you want to look on how i make all the coding process, the document can be found in this folder DataVizProject. After this image below you will have access to my tableau vizualization public where you can also behave as my client and decide what player or team you would select by any type of skills as you want.
 ![Viz9](https://user-images.githubusercontent.com/80002453/116177419-22b86500-a6ea-11eb-929b-76daaa5894fd.png)
 Thank you for the attention [Tableau Vizualization here!](https://public.tableau.com/profile/eduardo2842#!/vizhome/ProjectDataViz_16193879491070/InterativeFIFA?publish=yes)
