@@ -13,6 +13,7 @@ Unfortunately, this is the last project from the course, and now it is time to m
 * Make contract with cheap players that have the requirements from the client
 * Give new opportunities for the players recommended
 * Make a team without paying too much on star players ( Moneyball movie as an example ) 
+* Analyse all the players by the skills that you want
 
 ## Tools and Techniques 
 
