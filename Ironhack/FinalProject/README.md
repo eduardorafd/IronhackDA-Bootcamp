@@ -5,13 +5,13 @@
 </p>
 
 ## Main Idea
-Unfortunately, this is the last project from the course, and now it is time to make a project based on whatever we learnt during the bootcamp. So, i decided to create a data vizualization and a application to help managers to make contracts with new players. All of my table content is from the website [Fifa Dataset](https://sofifa.com/players).
+Unfortunately, this is the last project from the course, and now it is time to make a project based on what we learnt during the bootcamp. So, i decided to create a data vizualization and a application to help managers to make contracts with new players. All of my table content is from the website [Fifa Dataset](https://sofifa.com/players).
 
 ## Soccer and Data Analysis
 
 * Help to achieve unknown players around the world
 * Make contract with cheap players that have the requirements from the client
-* Give new opportunities
+* Give new opportunities for the players recommended
 * Make a team without paying too much on star players ( Moneyball movie as an example ) 
 
 ## Tools and Techniques 
