@@ -36,6 +36,7 @@ Unfortunately, this is the last project from the course, and now it is time to m
 
 ### Link for the vizualization and the application:
  [Tableau Vizualization here!](https://public.tableau.com/profile/eduardo2842#!/vizhome/FinalProjectFIFA_16213691735370/FIFAPlayers?publish=yes)
+ [Application for players recommendation here!](https://share.streamlit.io/eduardorafd/streamlit/main/fifa.py)
 
 
 <p align="center">
